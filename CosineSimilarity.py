@@ -94,6 +94,6 @@ class CosineSimilarity(object):
    It takes input of the file paths and pass the inputs to the controller function
 '''
 if __name__ == "__main__":
-	path1="C:/Users/IBM_ADMIN/Desktop/GBS/learning docs/Baxter/testdocuments"
+	path1="C:/Users/IBM_ADMIN/Desktop/GBS/learning docs/Baxter/testdocuments/HBR.txt"
 	path2="C:/Users/IBM_ADMIN/Desktop/GBS/learning docs/Baxter/documents/HBR training.txt"
 	CosineSimilarity().run(path1,path2)
